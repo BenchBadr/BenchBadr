@@ -15,6 +15,10 @@ My name is Bench Badr, I'm a high school student.
   />
   <img 
     height="30px" width="auto"
+    src="https://github.com/BenchBadr/BenchBadr/assets/78297845/a117ae99-9678-4d66-b1a4-c8a380bc965c"
+  />
+  <img 
+    height="30px" width="auto"
     src="https://github.com/BenchBadr/BenchBadr/assets/78297845/929db77a-bd5c-42a8-8c79-463ce5f51f1c"
   />
   <img 
@@ -22,6 +26,7 @@ My name is Bench Badr, I'm a high school student.
     src="https://github.com/BenchBadr/BenchBadr/assets/78297845/b60246a7-0991-48e8-a210-746cedcbcb9b"
   />
 </div>
+
 
 - Language *(already used)*
 
