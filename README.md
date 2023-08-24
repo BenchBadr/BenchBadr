@@ -66,7 +66,14 @@ My name is Bench Badr, I'm both a high school student and a junior developer.
     src="https://github.com/BenchBadr/BenchBadr/assets/78297845/58b9bbde-f6eb-4d74-b823-5e44d4b534a1"
   />
 </div>
+
 <a href="https://skyline.github.com/arlequiin/2023">See my contributions</a>
+
+## How to reach me ?
+
+If it is about my website Arltools : <a href="mailto:arltools.xyz@gmail.com">`arltools.xyz@gmail.com`</a>
+
+Else you can send me a message on discord :  `arlequiin`
 
 
 
