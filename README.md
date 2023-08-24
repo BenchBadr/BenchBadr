@@ -1,6 +1,6 @@
 ## Who am I ?
 
-My name is Bench Badr, I'm both a high school student and a junior developer.
+My name is Bench Badr, I'm a high school student.
 
 ## Competences
 - Languages *(strong knowedlge)*
