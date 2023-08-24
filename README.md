@@ -71,9 +71,9 @@ My name is Bench Badr, I'm both a high school student and a junior developer.
 
 ## How to reach me ?
 
-If it is about my website Arltools : <a href="mailto:arltools.xyz@gmail.com">`arltools.xyz@gmail.com`</a>
+If it is about my website Arltools : <a href="mailto:arltools.xyz@gmail.com" target=_blank>`arltools.xyz@gmail.com`</a>
 
-Else you can send me a message on discord :  `arlequiin` ; or on X (formerly Twitter) : [`@BenchBadr`](https://x.com/benchbadr)
+Else you can send me a message on discord :  `arlequiin` ; or on X (formerly Twitter) : [`@BenchBadr`](https://x.com/benchbadr){:target="_blank"}
 
 
 
