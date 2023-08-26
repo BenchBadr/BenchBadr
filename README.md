@@ -62,16 +62,6 @@ My name is Bench Badr, I'm a high school student.
   />
 </div>
 
-- Frameworks of frameworks
-
-  
-<div>
- <img 
-    height="30px" width="auto"
-    src="https://github.com/BenchBadr/BenchBadr/assets/78297845/58b9bbde-f6eb-4d74-b823-5e44d4b534a1"
-  />
-</div>
-
 <a href="https://skyline.github.com/arlequiin/2023">See my contributions</a>
 
 ## How to reach me ?
