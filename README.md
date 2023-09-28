@@ -3,7 +3,7 @@
 My name is Bench Badr, I'm a high school student.
 
 ## Competences
-- Languages *(mastered)*
+- Languages
 <div>
   <img 
     height="30px" width="auto"
