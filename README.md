@@ -76,7 +76,7 @@ My name is Bench Badr, I'm a high school student.
 
 If it is about my website [Arltools](https://arltools.xyz) : <a href="mailto:arltools.xyz@gmail.com">`arltools.xyz@gmail.com`</a>
 
-Else you can send me a message on discord :  `arlequiin` ; or on X (formerly Twitter) : [`@BenchBadr`](https://x.com/benchbadr)
+Else you can send me a message on discord :  `benchbadr` ; or on X (formerly Twitter) : [`@BenchBadr`](https://x.com/benchbadr)
 
 
 
