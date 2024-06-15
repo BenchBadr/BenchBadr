@@ -1,6 +1,6 @@
 ## Who am I ?
 
-My name is Bench Badr, I'm a high school student.
+My name is Bench Badr, I'm a freshmen in computer science at [Western New England University](https://wne.edu).
 
 ## Competences
 - Languages
