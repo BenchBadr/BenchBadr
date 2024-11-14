@@ -1,6 +1,11 @@
 ## Who am I ?
 
-My name is Bench Badr, I'm a freshmen in computer science at [Western New England University](https://wne.edu).
+My name is Benchekroun Badr
+
+## Education
+
+- CS Major, for one semester in [Western New England University](https://wne.edu).
+- Double-licence Mathématiques Informatiques at [Université Gustave Eiffel](https://univ-eiffel.fr)
 
 ## Competences
 - Languages
