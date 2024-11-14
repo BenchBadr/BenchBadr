@@ -4,8 +4,8 @@ My name is Benchekroun Badr
 
 ## Education
 
-- CS Major, for one semester in [Western New England University](https://wne.edu).
-- Double-licence Mathématiques Informatiques at [Université Gustave Eiffel](https://univ-eiffel.fr)
+- CS Major, for one semester in [Western New England University](https://wne.edu). (fall 2024 🍁)
+- Double-licence Mathématiques Informatiques at [Université Gustave Eiffel](https://univ-eiffel.fr) (Class of 2027)
 
 ## Competences
 - Languages
