@@ -4,6 +4,9 @@ My name is Benchekroun Badr
 
 ## Education
 
+![image](https://github.com/user-attachments/assets/b1c81acc-e073-4683-8e43-6b38c6b83864)
+
+
 - 🇺🇸 CS Major, for one semester in [Western New England University](https://wne.edu). (fall 2024 🍁)
 - 🇫🇷 Double-licence Mathématiques Informatiques at [Université Gustave Eiffel](https://univ-eiffel.fr) (Class of 2027)
 
