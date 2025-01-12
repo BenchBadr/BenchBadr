@@ -84,5 +84,6 @@ If it is about my website [Arltools](https://arltools.com) : <a href="mailto:arl
 
 Else you can send me a message on discord :  `benchbadr` ; or on X (formerly Twitter) : [`@BenchBadr`](https://x.com/benchbadr)
 
+... also, I am an [amateur photographer](https://instagram.com/badrpics).
 
 
