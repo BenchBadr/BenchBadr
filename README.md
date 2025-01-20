@@ -86,4 +86,6 @@ Else you can send me a message on discord :  `benchbadr` ; or on X (formerly Twi
 
 ... also, I am an [amateur photographer](https://instagram.com/badrpics).
 
+## Final note
 
+I am working on a new project newer and bigger ambitions, something that you may (and most likely will) start using on a regular basis. It will probably take a few months before I announce it but until then, feel free to follow my Github!
