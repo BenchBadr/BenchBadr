@@ -76,15 +76,11 @@ My name is Benchekroun Badr
   />
 </div>
 
-<a href="https://skyline.github.com/arlequiin/2023">See my contributions</a>
-
 ## How to reach me ?
 
 If it is about my website [Arltools](https://arltools.com) : <a href="mailto:arltools.xyz@gmail.com">`arltools.xyz@gmail.com`</a>
 
-Else you can send me a message on discord :  `benchbadr` ; or on X (formerly Twitter) : [`@BenchBadr`](https://x.com/benchbadr)
-
-... also, I am an [amateur photographer](https://instagram.com/badrpics).
+Otherwise you can send me a message on discord :  `benchbadr` ; or on X (formerly Twitter) : [`@BenchBadr`](https://x.com/benchbadr)
 
 ## Final note
 
