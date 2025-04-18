@@ -80,7 +80,7 @@ My name is Benchekroun Badr
 
 If it is about my website [Arltools](https://arltools.com) : <a href="mailto:arltools.xyz@gmail.com">`arltools.xyz@gmail.com`</a>
 
-Otherwise you can send me a message on discord :  `benchbadr` ; or on X (formerly Twitter) : [`@BenchBadr`](https://x.com/benchbadr)
+Otherwise you can send me a message on discord :  `benchbadr`
 
 ## Final note
 
