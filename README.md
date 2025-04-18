@@ -42,7 +42,7 @@ My name is Benchekroun Badr
 </div>
 
 
-- Language *(already used)*
+- Language *(notions)*
 
 <div>
   <img 
