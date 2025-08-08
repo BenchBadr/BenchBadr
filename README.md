@@ -1,13 +1,3 @@
-## Who am I ?
-
-My name is Benchekroun Badr
-
-## Education
-
-
-- 🇺🇸 CS Major, for one semester in [Western New England University](https://wne.edu). (fall 2024 🍁)
-- 🇫🇷 Double-licence Mathématiques Informatiques at [Université Gustave Eiffel](https://univ-eiffel.fr) (Class of 2027)
-
 ## Competences
 - Languages
 <div>
@@ -81,7 +71,3 @@ My name is Benchekroun Badr
 If it is about my website [Arltools](https://arltools.com) : <a href="mailto:arltools.xyz@gmail.com">`arltools.xyz@gmail.com`</a>
 
 Otherwise you can send me a message on discord :  `benchbadr`
-
-## Final note
-
-I am working on a new project newer and bigger ambitions, something that you may (and most likely will) start using on a regular basis. It will probably take a few months before I announce it but until then, feel free to follow my Github!
