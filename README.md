@@ -1,3 +1,14 @@
+## About
+
+- Mail : `contact@benchbadr.com`
+- Discord : `@benchbadr`
+- Papers : https://benchbadr.com/papers
+
+## Project showcase
+
+- https://arltools.com : Note-taking website up since 2023 based on Markdown with various functionnalities. It has not received significant updates in a while but will soon get a refreshed look  
+
+
 ## Competences
 - Languages
 <div>
@@ -66,8 +77,4 @@
   />
 </div>
 
-## How to reach me ?
 
-If it is about my website [Arltools](https://arltools.com) : <a href="mailto:arltools.xyz@gmail.com">`arltools.xyz@gmail.com`</a>
-
-Otherwise you can send me a message on discord :  `benchbadr`
