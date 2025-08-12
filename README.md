@@ -1,6 +1,6 @@
 ## About
 
-- Mail : `contact@benchbadr.com`
+- Mail : [contact@benchbadr.com](mailto:contact@benchbadr.com)
 - Discord : `@benchbadr`
 - Papers : https://benchbadr.com/papers
 
