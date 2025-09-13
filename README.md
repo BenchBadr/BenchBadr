@@ -3,6 +3,7 @@
 - Mail : [contact@benchbadr.com](mailto:contact@benchbadr.com)
 - Discord : `@benchbadr`
 - Papers : https://benchbadr.com/papers
+- Personal website : https://benchbadr.com
 
 ## Recent projects showcase
 
