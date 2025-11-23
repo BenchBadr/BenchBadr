@@ -8,7 +8,6 @@
 ## Recent projects showcase
 
 - [DiaFox](https://github.com/BenchBadr/DiaFox) : An in-progress extension meant to port the Dia Browser experience to Firefox based browsers with agentic capabilities.
-- https://arltools.com : Note-taking website up since 2023 based on Markdown with various functionnalities. It has not received significant updates in a while but will soon get a refreshed look
 
 
 ## Competences
